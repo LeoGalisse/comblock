@@ -17,6 +17,7 @@ const config: Config = {
         'primary-red-950': '#4B0404',
         'gray-50': '#DCDCDC',
         gray: '#989898',
+        'neutral-60': '#656565',
       },
     },
   },
